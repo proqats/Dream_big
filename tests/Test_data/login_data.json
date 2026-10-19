@@ -1,0 +1,14 @@
+ [
+
+{
+    "username":"standard_user",
+    "password":"secret_sauce",
+    "type":"valid"
+},
+{
+   "username":"umashankar",
+    "password":"ecret_sauce",
+    "type":"invalid"
+}
+
+]
